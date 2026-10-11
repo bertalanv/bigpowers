@@ -5,13 +5,6 @@ description: "Detect GSD, spec-kit, or BMAD spec artifacts and transform them in
 disable-model-invocation: true
 ---
 
-# story: e25s01
-# story: e25s02
-# story: e25s03
-# story: e25s04
-# story: e25s05
-# story: e25s06
-
 # Migrate Spec
 
 Transform existing GSD, spec-kit, or BMAD planning artifacts into the bigpowers `specs/` model. No code is written — the output is a set of bigpowers-format spec files the user can use immediately.

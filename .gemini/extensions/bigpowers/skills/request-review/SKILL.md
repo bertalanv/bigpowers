@@ -5,8 +5,6 @@ description: "Dispatch a fresh reviewer agent with a clean context to critique t
 disable-model-invocation: true
 ---
 
-# story: e45s28
-
 # Request Review
 
 Dispatch fresh reviewer agents with clean contexts. Reviewers have no shared state — they find what the coding agent missed.

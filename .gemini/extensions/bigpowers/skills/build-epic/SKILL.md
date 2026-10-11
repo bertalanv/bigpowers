@@ -5,8 +5,6 @@ description: "Eight-step epic build cycle — reads state.yaml, execution-status
 disable-model-invocation: true
 ---
 
-# story: e20s05
-
 # Build Epic
 
 Scope: one story. Called by orchestrate-project Phase 4. Not a replacement for orchestrate-project.

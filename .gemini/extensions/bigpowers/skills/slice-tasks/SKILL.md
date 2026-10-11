@@ -5,8 +5,6 @@ description: "PLANNING SPINE STEP 2 of 3 — Slice the work: break a scoped PRD 
 disable-model-invocation: true
 ---
 
-# story: e45s29
-
 # Slice Tasks
 
 > **Spine position:** Step 2 — scope-work → slice-tasks → plan-work.

@@ -5,9 +5,6 @@ description: "Add a new requirement or reorder epics by WSJF against specs/relea
 disable-model-invocation: true
 ---
 
-# story: e45s29
-# story: e20s01
-
 # Change Request
 
 > **HARD GATE** — `specs/release-plan.yaml` must exist before running either mode. If it doesn't, run `plan-release` first.
