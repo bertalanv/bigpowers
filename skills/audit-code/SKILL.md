@@ -1,7 +1,4 @@
 ---
-# story: e51s04
-# story: e45s18
-# story: e45s31
 name: audit-code
 model: haiku
 effort: standard

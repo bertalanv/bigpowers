@@ -5,11 +5,6 @@ description: "Benchmark-gated skill evolution — consume bigpowers-benchmark re
 disable-model-invocation: true
 ---
 
-# story: e23s03
-
-# story: e09s01
-# story: e09s05
-
 # Evolve Skill
 
 > **HARD GATE** — No skill change ships without benchmark score ≥ pre-change baseline. Learning is measured and versioned — never implicit.

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:31:55.144947+00:00",
+  "generated_at": "2026-10-11T14:52:07.859110+00:00",
   "matrix_version": "1.0",
   "stories": [
     {
@@ -1194,12 +1194,6 @@
           "method": "explicit_tag"
         },
         {
-          "file": "skills/run-benchmark/SKILL.md",
-          "line": 3,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".windsurf/rules/run-benchmark.md",
           "line": 0,
           "confidence": "medium",
@@ -1254,7 +1248,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 14
+      "link_count": 13
     },
     {
       "id": "e45s02",
@@ -1303,12 +1297,6 @@
         },
         {
           "file": "scripts/validate-skill-description.sh",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/craft-skill/SKILL.md",
           "line": 2,
           "confidence": "high",
           "method": "explicit_tag"
@@ -1374,7 +1362,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 18
+      "link_count": 17
     },
     {
       "id": "e45s03",
@@ -1429,12 +1417,6 @@
         },
         {
           "file": "scripts/lib/plan-consistency-check.sh",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/plan-work/SKILL.md",
           "line": 2,
           "confidence": "high",
           "method": "explicit_tag"
@@ -1524,7 +1506,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 17
+      "link_count": 16
     },
     {
       "id": "e45s05",
@@ -1610,12 +1592,6 @@
         {
           "file": "skills/verify-work/SKILL.md",
           "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/gate-trace/SKILL.md",
-          "line": 3,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -1806,7 +1782,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 45
+      "link_count": 44
     },
     {
       "id": "e45s06",
@@ -1816,21 +1792,8 @@
       "bcp": 2,
       "wsjf": 5.0,
       "status": "done",
-      "links": [
-        {
-          "file": "skills/plan-work/SKILL.md",
-          "line": 3,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/develop-tdd/SKILL.md",
-          "line": 5,
-          "confidence": "high",
-          "method": "explicit_tag"
-        }
-      ],
-      "link_count": 2
+      "links": [],
+      "link_count": 0
     },
     {
       "id": "e45s07",
@@ -1841,18 +1804,6 @@
       "wsjf": 5.0,
       "status": "done",
       "links": [
-        {
-          "file": "skills/request-review/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/request-review/SKILL.md",
-          "line": 3,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
         {
           "file": ".windsurf/rules/security-review.md",
           "line": 0,
@@ -2070,7 +2021,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 38
+      "link_count": 36
     },
     {
       "id": "e45s08",
@@ -2081,18 +2032,6 @@
       "wsjf": 5.0,
       "status": "done",
       "links": [
-        {
-          "file": "skills/validate-fix/SKILL.md",
-          "line": 4,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/develop-tdd/SKILL.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
         {
           "file": ".windsurf/rules/develop-tdd.md",
           "line": 0,
@@ -2166,7 +2105,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 14
+      "link_count": 12
     },
     {
       "id": "e45s09",
@@ -2244,12 +2183,6 @@
           "method": "explicit_tag"
         },
         {
-          "file": "skills/plan-work/SKILL.md",
-          "line": 4,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": "skills/verify-work/SKILL.md",
           "line": 11,
           "confidence": "high",
@@ -2292,7 +2225,7 @@
           "method": "explicit_tag"
         },
         {
-          "file": "GSD_WORKFLOW_ANALYSIS_VS_BIGPOWERS.md",
+          "file": "GSD_WORKFLOW_ANALYSIS_VS_BIGPOWERS 2.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -2706,7 +2639,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 88
+      "link_count": 87
     },
     {
       "id": "e45s10",
@@ -2773,109 +2706,109 @@
       "links": [
         {
           "file": ".qwen/skills/dispatch-agents/SKILL.md",
-          "line": 9,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".copilot/skills/dispatch-agents/SKILL.md",
-          "line": 9,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".gemini/extensions/bigpowers/commands/prompts/dispatch-agents.md",
-          "line": 8,
+          "line": 6,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".gemini/extensions/bigpowers/skills/dispatch-agents/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/dispatch-agents.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/dispatch-agents.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/dispatch-agents/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/dispatch-agents.md",
           "line": 8,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
+          "file": ".trae/skills/dispatch-agents/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".windsurf/rules/dispatch-agents.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".opencode/skills/dispatch-agents/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".agents/skills/dispatch-agents/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".kilocode/rules/dispatch-agents.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".codex/skills/dispatch-agents/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".cline/skills/dispatch-agents/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": "skills/dispatch-agents/SKILL.md",
+          "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".codebuddy/skills/dispatch-agents/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".zcode/skills/dispatch-agents/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".mimocode/skills/dispatch-agents/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".hermes/skills/dispatch-agents/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".pi/prompts/dispatch-agents.md",
+          "line": 6,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
           "file": ".pi/skills/dispatch-agents/SKILL.md",
-          "line": 9,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -2911,61 +2844,61 @@
       "links": [
         {
           "file": ".qwen/skills/stocktake-skills/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/stocktake-skills/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/stocktake-skills.md",
           "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
+          "file": ".copilot/skills/stocktake-skills/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".gemini/extensions/bigpowers/commands/prompts/stocktake-skills.md",
+          "line": 6,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
           "file": ".gemini/extensions/bigpowers/skills/stocktake-skills/SKILL.md",
-          "line": 9,
+          "line": 8,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".trae/skills/stocktake-skills/SKILL.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".windsurf/rules/stocktake-skills.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".opencode/skills/stocktake-skills/SKILL.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".agents/skills/stocktake-skills/SKILL.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".kilocode/rules/stocktake-skills.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".codex/skills/stocktake-skills/SKILL.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -2977,55 +2910,49 @@
         },
         {
           "file": ".cline/skills/stocktake-skills/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/craft-skill/SKILL.md",
-          "line": 3,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/stocktake-skills/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/stocktake-skills/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/stocktake-skills/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/stocktake-skills/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/stocktake-skills/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/stocktake-skills.md",
           "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
-          "file": ".pi/skills/stocktake-skills/SKILL.md",
+          "file": "skills/stocktake-skills/SKILL.md",
           "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".codebuddy/skills/stocktake-skills/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".zcode/skills/stocktake-skills/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".mimocode/skills/stocktake-skills/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".hermes/skills/stocktake-skills/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".pi/prompts/stocktake-skills.md",
+          "line": 6,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".pi/skills/stocktake-skills/SKILL.md",
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -3198,7 +3125,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 48
+      "link_count": 47
     },
     {
       "id": "e45s13",
@@ -3402,12 +3329,6 @@
           "method": "explicit_tag"
         },
         {
-          "file": "skills/deepen-architecture/SKILL.md",
-          "line": 3,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".windsurf/rules/deepen-architecture.md",
           "line": 0,
           "confidence": "medium",
@@ -3444,7 +3365,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 8
+      "link_count": 7
     },
     {
       "id": "e45s15",
@@ -3522,14 +3443,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": "skills/deploy/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": "skills/release-branch/SKILL.md",
-          "line": 10,
+          "line": 9,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -3606,7 +3521,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 25
+      "link_count": 24
     },
     {
       "id": "e45s16",
@@ -3653,12 +3568,6 @@
       "wsjf": 5.0,
       "status": "done",
       "links": [
-        {
-          "file": "skills/request-review/SKILL.md",
-          "line": 4,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
         {
           "file": ".windsurf/rules/security-review.md",
           "line": 0,
@@ -3834,7 +3743,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 30
+      "link_count": 29
     },
     {
       "id": "e45s18",
@@ -3847,61 +3756,61 @@
       "links": [
         {
           "file": ".qwen/skills/security-review/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/security-review/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/security-review.md",
           "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
+          "file": ".copilot/skills/security-review/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".gemini/extensions/bigpowers/commands/prompts/security-review.md",
+          "line": 6,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
           "file": ".gemini/extensions/bigpowers/skills/security-review/SKILL.md",
-          "line": 9,
+          "line": 8,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".trae/skills/security-review/SKILL.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".windsurf/rules/security-review.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".opencode/skills/security-review/SKILL.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".agents/skills/security-review/SKILL.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".kilocode/rules/security-review.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".codex/skills/security-review/SKILL.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -3913,55 +3822,49 @@
         },
         {
           "file": ".cline/skills/security-review/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/security-review/SKILL.md",
-          "line": 14,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/audit-code/SKILL.md",
-          "line": 3,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/security-review/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/security-review/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/security-review/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/security-review/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/security-review.md",
           "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
+          "file": "skills/security-review/SKILL.md",
+          "line": 13,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".codebuddy/skills/security-review/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".zcode/skills/security-review/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".mimocode/skills/security-review/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".hermes/skills/security-review/SKILL.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".pi/prompts/security-review.md",
+          "line": 6,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
           "file": ".pi/skills/security-review/SKILL.md",
-          "line": 8,
+          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -4140,12 +4043,6 @@
           "method": "file_heuristic"
         },
         {
-          "file": "specs/verifications/reports/audit-cleancode-20260905-102635.md",
-          "line": 0,
-          "confidence": "medium",
-          "method": "file_heuristic"
-        },
-        {
           "file": "specs/verifications/reports/audit-cleancode-20260703-165703.md",
           "line": 0,
           "confidence": "medium",
@@ -4225,6 +4122,12 @@
         },
         {
           "file": "specs/verifications/reports/audit-cleancode-20260705-170547.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": "specs/verifications/reports/audit-cleancode-20261010-074116.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -4566,12 +4469,6 @@
           "method": "file_heuristic"
         },
         {
-          "file": "specs/verifications/reports/audit-cleancode-20260905-102428.md",
-          "line": 0,
-          "confidence": "medium",
-          "method": "file_heuristic"
-        },
-        {
           "file": "specs/verifications/reports/audit-cleancode-20260705-180901.md",
           "line": 0,
           "confidence": "medium",
@@ -4603,12 +4500,6 @@
         },
         {
           "file": "specs/verifications/reports/audit-cleancode-20260703-174025.md",
-          "line": 0,
-          "confidence": "medium",
-          "method": "file_heuristic"
-        },
-        {
-          "file": "specs/verifications/reports/audit-cleancode-20260905-102236.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -5059,6 +4950,12 @@
         },
         {
           "file": "specs/verifications/reports/audit-cleancode-20260704-145833.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": "specs/verifications/reports/audit-cleancode-20261010-074258.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -5544,7 +5441,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 283
+      "link_count": 281
     },
     {
       "id": "e45s19",
@@ -5555,12 +5452,6 @@
       "wsjf": 5.0,
       "status": "done",
       "links": [
-        {
-          "file": "skills/context7-mcp/SKILL.md",
-          "line": 3,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
         {
           "file": "specs/wayfinder/doc-templates/tickets/T2-template-landscape.md",
           "line": 0,
@@ -5604,7 +5495,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 8
+      "link_count": 7
     },
     {
       "id": "e45s20",
@@ -5635,97 +5526,49 @@
       "links": [
         {
           "file": ".qwen/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".qwen/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".copilot/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".gemini/extensions/bigpowers/commands/prompts/seed-conventions.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/seed-conventions.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".gemini/extensions/bigpowers/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/seed-conventions/SKILL.md",
-          "line": 125,
+          "line": 117,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".trae/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".windsurf/rules/seed-conventions.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/seed-conventions.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".opencode/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".agents/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -5737,37 +5580,19 @@
         },
         {
           "file": ".kilocode/rules/seed-conventions.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/seed-conventions.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".codex/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".cline/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -5778,80 +5603,38 @@
           "method": "explicit_tag"
         },
         {
-          "file": "skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".codebuddy/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".zcode/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".mimocode/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".hermes/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".pi/prompts/seed-conventions.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/seed-conventions.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".pi/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -5880,7 +5663,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 41
+      "link_count": 23
     },
     {
       "id": "e45s22",
@@ -5922,116 +5705,8 @@
       "status": "done",
       "links": [
         {
-          "file": ".qwen/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/session-state.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/session-state/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/session-state.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/session-state.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/session-state/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": "CLAUDE.md",
           "line": 4,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/session-state/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/session-state.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/session-state/SKILL.md",
-          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -6048,7 +5723,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 21
+      "link_count": 3
     },
     {
       "id": "e45s24",
@@ -6126,78 +5801,6 @@
       "status": "done",
       "links": [
         {
-          "file": ".qwen/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/security-review.md",
-          "line": 15,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/security-review/SKILL.md",
-          "line": 17,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/security-review.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/security-review.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/security-review/SKILL.md",
-          "line": 22,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": "skills/security-review/fixtures/CWE-89-sqli-positive.py",
           "line": 1,
           "confidence": "high",
@@ -6222,40 +5825,10 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".codebuddy/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/security-review.md",
-          "line": 15,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/security-review/SKILL.md",
-          "line": 16,
-          "confidence": "high",
-          "method": "explicit_tag"
+          "file": ".windsurf/rules/security-review.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         },
         {
           "file": "specs/skills-wiki/skills/security-review.md",
@@ -6282,6 +5855,12 @@
           "method": "file_heuristic"
         },
         {
+          "file": ".kilocode/rules/security-review.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
           "file": "skills/security-review/fixtures/CWE-fail-open-verify-negative.sh",
           "line": 0,
           "confidence": "medium",
@@ -6294,7 +5873,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 28
+      "link_count": 12
     },
     {
       "id": "e45s27",
@@ -6304,117 +5883,8 @@
       "bcp": 2,
       "wsjf": 5.0,
       "status": "done",
-      "links": [
-        {
-          "file": ".qwen/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/compose-workflow.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/compose-workflow/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/compose-workflow.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/compose-workflow.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/compose-workflow/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/compose-workflow.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/compose-workflow/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        }
-      ],
-      "link_count": 18
+      "links": [],
+      "link_count": 0
     },
     {
       "id": "e45s28",
@@ -6426,112 +5896,10 @@
       "status": "done",
       "links": [
         {
-          "file": ".qwen/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/request-review.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/request-review/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".windsurf/rules/request-review.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/request-review.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/request-review/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/request-review.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/request-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         },
         {
           "file": "specs/skills-wiki/skills/request-review.md",
@@ -6556,9 +5924,15 @@
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
+        },
+        {
+          "file": ".kilocode/rules/request-review.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         }
       ],
-      "link_count": 22
+      "link_count": 6
     },
     {
       "id": "e45s29",
@@ -6568,333 +5942,8 @@
       "bcp": 2,
       "wsjf": 5.0,
       "status": "done",
-      "links": [
-        {
-          "file": ".qwen/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".qwen/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".qwen/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/slice-tasks.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/plan-work.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/change-request.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/plan-work/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/change-request/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/slice-tasks/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/slice-tasks.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/plan-work.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/change-request.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/slice-tasks.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/plan-work.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/change-request.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/plan-work/SKILL.md",
-          "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/change-request/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/slice-tasks/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/slice-tasks.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/plan-work.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/change-request.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/plan-work/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/change-request/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/slice-tasks/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        }
-      ],
-      "link_count": 54
+      "links": [],
+      "link_count": 0
     },
     {
       "id": "e45s30",
@@ -6904,225 +5953,8 @@
       "bcp": 2,
       "wsjf": 5.0,
       "status": "done",
-      "links": [
-        {
-          "file": ".qwen/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".qwen/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/dispatch-agents.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/delegate-task.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/delegate-task/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/dispatch-agents/SKILL.md",
-          "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/dispatch-agents.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/delegate-task.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/dispatch-agents.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/delegate-task.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/delegate-task/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/dispatch-agents/SKILL.md",
-          "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/dispatch-agents.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/delegate-task.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/delegate-task/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/dispatch-agents/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        }
-      ],
-      "link_count": 36
+      "links": [],
+      "link_count": 0
     },
     {
       "id": "e45s31",
@@ -7136,18 +5968,6 @@
         {
           "file": "scripts/bp-churn-rank.sh",
           "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/deepen-architecture/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/audit-code/SKILL.md",
-          "line": 4,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -7356,12 +6176,6 @@
           "method": "file_heuristic"
         },
         {
-          "file": "specs/verifications/reports/audit-cleancode-20260905-102635.md",
-          "line": 0,
-          "confidence": "medium",
-          "method": "file_heuristic"
-        },
-        {
           "file": "specs/verifications/reports/audit-cleancode-20260703-165703.md",
           "line": 0,
           "confidence": "medium",
@@ -7441,6 +6255,12 @@
         },
         {
           "file": "specs/verifications/reports/audit-cleancode-20260705-170547.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": "specs/verifications/reports/audit-cleancode-20261010-074116.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -7782,12 +6602,6 @@
           "method": "file_heuristic"
         },
         {
-          "file": "specs/verifications/reports/audit-cleancode-20260905-102428.md",
-          "line": 0,
-          "confidence": "medium",
-          "method": "file_heuristic"
-        },
-        {
           "file": "specs/verifications/reports/audit-cleancode-20260705-180901.md",
           "line": 0,
           "confidence": "medium",
@@ -7819,12 +6633,6 @@
         },
         {
           "file": "specs/verifications/reports/audit-cleancode-20260703-174025.md",
-          "line": 0,
-          "confidence": "medium",
-          "method": "file_heuristic"
-        },
-        {
-          "file": "specs/verifications/reports/audit-cleancode-20260905-102236.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -8275,6 +7083,12 @@
         },
         {
           "file": "specs/verifications/reports/audit-cleancode-20260704-145833.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": "specs/verifications/reports/audit-cleancode-20261010-074258.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -8748,7 +7562,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 269
+      "link_count": 266
     },
     {
       "id": "e45s32",
@@ -8833,13 +7647,7 @@
         },
         {
           "file": "skills/release-branch/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/gate-trace/SKILL.md",
-          "line": 7,
+          "line": 10,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -9006,7 +7814,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 41
+      "link_count": 40
     },
     {
       "id": "e45s33",
@@ -9028,15 +7836,9 @@
           "line": 3,
           "confidence": "high",
           "method": "explicit_tag"
-        },
-        {
-          "file": "skills/plan-work/SKILL.md",
-          "line": 5,
-          "confidence": "high",
-          "method": "explicit_tag"
         }
       ],
-      "link_count": 3
+      "link_count": 2
     },
     {
       "id": "e45s34",
@@ -9047,12 +7849,6 @@
       "wsjf": 5.0,
       "status": "done",
       "links": [
-        {
-          "file": "skills/develop-tdd/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
         {
           "file": ".windsurf/rules/develop-tdd.md",
           "line": 0,
@@ -9090,7 +7886,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 7
+      "link_count": 6
     },
     {
       "id": "e45s35",
@@ -9101,12 +7897,6 @@
       "wsjf": 5.0,
       "status": "done",
       "links": [
-        {
-          "file": "skills/plan-work/SKILL.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
         {
           "file": ".windsurf/rules/plan-work.md",
           "line": 0,
@@ -9144,7 +7934,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 7
+      "link_count": 6
     },
     {
       "id": "e45s36",
@@ -9179,12 +7969,6 @@
       "wsjf": 5.0,
       "status": "done",
       "links": [
-        {
-          "file": "skills/run-evals/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
         {
           "file": ".windsurf/rules/run-evals.md",
           "line": 0,
@@ -9228,7 +8012,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 8
+      "link_count": 7
     },
     {
       "id": "e45s38",
@@ -9239,120 +8023,6 @@
       "wsjf": 5.0,
       "status": "done",
       "links": [
-        {
-          "file": ".qwen/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/dispatch-agents.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/dispatch-agents.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/dispatch-agents.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/diagnose-stall/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/dispatch-agents/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/dispatch-agents.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/dispatch-agents/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
         {
           "file": "specs/bugs/BUG-2026-07-26-null-skill-adapters-install-nothing.okf.md",
           "line": 0,
@@ -9366,7 +8036,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 21
+      "link_count": 2
     },
     {
       "id": "e45s39",
@@ -9445,7 +8115,7 @@
         },
         {
           "file": "skills/release-branch/SKILL.md",
-          "line": 12,
+          "line": 11,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -9672,112 +8342,10 @@
       "status": "done",
       "links": [
         {
-          "file": ".qwen/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/security-review.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/security-review/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".windsurf/rules/security-review.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/security-review.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/security-review/SKILL.md",
-          "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/security-review.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/security-review/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         },
         {
           "file": "specs/skills-wiki/skills/security-review.md",
@@ -9802,9 +8370,15 @@
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
+        },
+        {
+          "file": ".kilocode/rules/security-review.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         }
       ],
-      "link_count": 22
+      "link_count": 6
     },
     {
       "id": "e48s01",
@@ -10074,7 +8648,7 @@
           "method": "file_heuristic"
         },
         {
-          "file": "specs/verifications/reports/audit-2026-09-05.okf.md",
+          "file": "specs/verifications/reports/audit-2026-10-10.okf.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -10782,6 +9356,12 @@
           "method": "file_heuristic"
         },
         {
+          "file": "specs/bugs/BUG-2026-09-10-pi-mcp-omp-startup.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
           "file": "specs/bugs/BUG-2026-07-03-golden-lock-stale-e37-ids.okf.md",
           "line": 0,
           "confidence": "medium",
@@ -10849,6 +9429,12 @@
         },
         {
           "file": "specs/bugs/BUG-2026-07-25-fail-open-skill-verify.okf.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": "specs/bugs/BUG-2026-09-13-docs-base-path-gate-ci.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -10981,6 +9567,12 @@
         },
         {
           "file": "specs/bugs/BUG-2026-07-03-validate-specs-no-real-parser.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": "specs/bugs/BUG-2026-09-09-pi-duplicate-slash-commands.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -11154,6 +9746,12 @@
           "method": "file_heuristic"
         },
         {
+          "file": "specs/bugs/BUG-2026-09-05-golden-gate-missing-node-deps.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
           "file": "specs/bugs/BUG-2026-07-07-compliance-cross-module-sourcing.md",
           "line": 0,
           "confidence": "medium",
@@ -11232,7 +9830,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 169
+      "link_count": 173
     },
     {
       "id": "e48s04",
@@ -11394,7 +9992,7 @@
           "method": "file_heuristic"
         },
         {
-          "file": "specs/verifications/reports/audit-2026-09-05.okf.md",
+          "file": "specs/verifications/reports/audit-2026-10-10.okf.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -13327,73 +11925,37 @@
       "links": [
         {
           "file": ".qwen/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".qwen/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".copilot/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".gemini/extensions/bigpowers/commands/prompts/seed-conventions.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/seed-conventions.md",
-          "line": 122,
+          "line": 114,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".gemini/extensions/bigpowers/skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/seed-conventions/SKILL.md",
-          "line": 124,
+          "line": 116,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".trae/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".windsurf/rules/seed-conventions.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/seed-conventions.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -13417,61 +11979,31 @@
         },
         {
           "file": ".opencode/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".agents/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".kilocode/rules/seed-conventions.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/seed-conventions.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".codex/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".cline/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -13482,80 +12014,38 @@
           "method": "explicit_tag"
         },
         {
-          "file": "skills/seed-conventions/SKILL.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".codebuddy/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".zcode/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".mimocode/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".hermes/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".pi/prompts/seed-conventions.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/seed-conventions.md",
-          "line": 122,
+          "line": 114,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".pi/skills/seed-conventions/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/seed-conventions/SKILL.md",
-          "line": 123,
+          "line": 115,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -13614,7 +12104,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 48
+      "link_count": 30
     },
     {
       "id": "e51s03",
@@ -13632,26 +12122,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".qwen/skills/kickoff-branch/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".copilot/skills/verify-work/SKILL.md",
           "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/kickoff-branch/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/kickoff-branch.md",
-          "line": 6,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -13668,26 +12140,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".gemini/extensions/bigpowers/skills/kickoff-branch/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".trae/skills/verify-work/SKILL.md",
           "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/kickoff-branch/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/kickoff-branch.md",
-          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -13722,26 +12176,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".opencode/skills/kickoff-branch/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".agents/skills/verify-work/SKILL.md",
           "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/kickoff-branch/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/kickoff-branch.md",
-          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -13758,20 +12194,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".codex/skills/kickoff-branch/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".cline/skills/verify-work/SKILL.md",
           "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/kickoff-branch/SKILL.md",
-          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -13782,20 +12206,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": "skills/kickoff-branch/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".codebuddy/skills/verify-work/SKILL.md",
           "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/kickoff-branch/SKILL.md",
-          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -13806,38 +12218,14 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".zcode/skills/kickoff-branch/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".mimocode/skills/verify-work/SKILL.md",
           "line": 13,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
-          "file": ".mimocode/skills/kickoff-branch/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".hermes/skills/verify-work/SKILL.md",
           "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/kickoff-branch/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/kickoff-branch.md",
-          "line": 6,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -13854,10 +12242,10 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".pi/skills/kickoff-branch/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
+          "file": ".windsurf/rules/kickoff-branch.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         },
         {
           "file": "specs/skills-wiki/skills/kickoff-branch.md",
@@ -14052,6 +12440,12 @@
           "method": "file_heuristic"
         },
         {
+          "file": ".kilocode/rules/kickoff-branch.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
           "file": "scripts/land-branch.sh",
           "line": 0,
           "confidence": "medium",
@@ -14070,7 +12464,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 74
+      "link_count": 58
     },
     {
       "id": "e51s04",
@@ -14081,6 +12475,12 @@
       "wsjf": 7.0,
       "status": "done",
       "links": [
+        {
+          "file": "specs/bugs/BUG-2026-09-05-golden-gate-missing-node-deps.md",
+          "line": 81,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
         {
           "file": "specs/epics/archive/e51-always-green-shift-left/e51s04-fix-or-log-routing.md",
           "line": 1,
@@ -14108,30 +12508,6 @@
         {
           "file": ".github/workflows/golden-suite.yml",
           "line": 1,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/fix-bug/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/quick-fix/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/develop-tdd/SKILL.md",
-          "line": 4,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/audit-code/SKILL.md",
-          "line": 2,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -14376,12 +12752,6 @@
           "method": "file_heuristic"
         },
         {
-          "file": "specs/verifications/reports/audit-cleancode-20260905-102635.md",
-          "line": 0,
-          "confidence": "medium",
-          "method": "file_heuristic"
-        },
-        {
           "file": "specs/verifications/reports/audit-cleancode-20260703-165703.md",
           "line": 0,
           "confidence": "medium",
@@ -14461,6 +12831,12 @@
         },
         {
           "file": "specs/verifications/reports/audit-cleancode-20260705-170547.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": "specs/verifications/reports/audit-cleancode-20261010-074116.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -14802,12 +13178,6 @@
           "method": "file_heuristic"
         },
         {
-          "file": "specs/verifications/reports/audit-cleancode-20260905-102428.md",
-          "line": 0,
-          "confidence": "medium",
-          "method": "file_heuristic"
-        },
-        {
           "file": "specs/verifications/reports/audit-cleancode-20260705-180901.md",
           "line": 0,
           "confidence": "medium",
@@ -14839,12 +13209,6 @@
         },
         {
           "file": "specs/verifications/reports/audit-cleancode-20260703-174025.md",
-          "line": 0,
-          "confidence": "medium",
-          "method": "file_heuristic"
-        },
-        {
-          "file": "specs/verifications/reports/audit-cleancode-20260905-102236.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -15295,6 +13659,12 @@
         },
         {
           "file": "specs/verifications/reports/audit-cleancode-20260704-145833.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": "specs/verifications/reports/audit-cleancode-20261010-074258.md",
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
@@ -15810,6 +14180,12 @@
           "method": "file_heuristic"
         },
         {
+          "file": "specs/bugs/BUG-2026-09-13-docs-base-path-gate-ci.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
           "file": "specs/bugs/BUG-2026-07-04-tautological-verify.okf.md",
           "line": 0,
           "confidence": "medium",
@@ -16020,7 +14396,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 323
+      "link_count": 320
     },
     {
       "id": "e51s05",
@@ -16350,6 +14726,18 @@
           "method": "file_heuristic"
         },
         {
+          "file": "specs/bugs/BUG-2026-09-13-docs-base-path-gate-ci.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": "specs/bugs/BUG-2026-09-05-golden-gate-missing-node-deps.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
           "file": "specs/adr-wiki/0005-hard-gate-mandate.okf.md",
           "line": 0,
           "confidence": "medium",
@@ -16524,7 +14912,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 50
+      "link_count": 52
     },
     {
       "id": "e53s04",
@@ -19554,12 +17942,6 @@
           "method": "explicit_tag"
         },
         {
-          "file": "skills/craft-skill/SKILL.md",
-          "line": 4,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".windsurf/rules/craft-skill.md",
           "line": 0,
           "confidence": "medium",
@@ -19662,7 +18044,7 @@
           "method": "task_reference"
         }
       ],
-      "link_count": 21
+      "link_count": 20
     },
     {
       "id": "e79s03",
@@ -19673,42 +18055,6 @@
       "wsjf": 6.0,
       "status": "done",
       "links": [
-        {
-          "file": ".qwen/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/seed-conventions.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/seed-conventions/SKILL.md",
-          "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/seed-conventions.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
         {
           "file": "specs/epics/e79-agentic-ste/epic.yaml",
           "line": 54,
@@ -19722,76 +18068,10 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".opencode/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/seed-conventions.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/seed-conventions/SKILL.md",
-          "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/seed-conventions.md",
-          "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/skills/seed-conventions/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
+          "file": ".windsurf/rules/seed-conventions.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         },
         {
           "file": "specs/skills-wiki/skills/seed-conventions.md",
@@ -19816,9 +18096,15 @@
           "line": 0,
           "confidence": "medium",
           "method": "file_heuristic"
+        },
+        {
+          "file": ".kilocode/rules/seed-conventions.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         }
       ],
-      "link_count": 24
+      "link_count": 8
     },
     {
       "id": "e79s04",
@@ -19831,37 +18117,37 @@
       "links": [
         {
           "file": ".qwen/skills/stocktake-skills/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/stocktake-skills/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/stocktake-skills.md",
           "line": 8,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
+          "file": ".copilot/skills/stocktake-skills/SKILL.md",
+          "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".gemini/extensions/bigpowers/commands/prompts/stocktake-skills.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
           "file": ".gemini/extensions/bigpowers/skills/stocktake-skills/SKILL.md",
-          "line": 10,
+          "line": 9,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".trae/skills/stocktake-skills/SKILL.md",
-          "line": 9,
+          "line": 8,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
           "file": ".windsurf/rules/stocktake-skills.md",
-          "line": 9,
+          "line": 8,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -19879,73 +18165,73 @@
         },
         {
           "file": ".opencode/skills/stocktake-skills/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/stocktake-skills/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/stocktake-skills.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/stocktake-skills/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/stocktake-skills/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/stocktake-skills/SKILL.md",
-          "line": 12,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/stocktake-skills/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/stocktake-skills/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/stocktake-skills/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/stocktake-skills/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/stocktake-skills.md",
           "line": 8,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
-          "file": ".pi/skills/stocktake-skills/SKILL.md",
+          "file": ".agents/skills/stocktake-skills/SKILL.md",
+          "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".kilocode/rules/stocktake-skills.md",
+          "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".codex/skills/stocktake-skills/SKILL.md",
+          "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".cline/skills/stocktake-skills/SKILL.md",
+          "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": "skills/stocktake-skills/SKILL.md",
           "line": 9,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".codebuddy/skills/stocktake-skills/SKILL.md",
+          "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".zcode/skills/stocktake-skills/SKILL.md",
+          "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".mimocode/skills/stocktake-skills/SKILL.md",
+          "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".hermes/skills/stocktake-skills/SKILL.md",
+          "line": 8,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".pi/prompts/stocktake-skills.md",
+          "line": 7,
+          "confidence": "high",
+          "method": "explicit_tag"
+        },
+        {
+          "file": ".pi/skills/stocktake-skills/SKILL.md",
+          "line": 8,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -20017,30 +18303,6 @@
         },
         {
           "file": "scripts/run-gate-trace-verify.sh",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/enforce-first/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/validate-fix/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/gate-trace/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/develop-tdd/SKILL.md",
           "line": 2,
           "confidence": "high",
           "method": "explicit_tag"
@@ -20472,7 +18734,7 @@
           "method": "task_reference"
         }
       ],
-      "link_count": 81
+      "link_count": 77
     },
     {
       "id": "e80s02",
@@ -20497,18 +18759,6 @@
         },
         {
           "file": "scripts/validate-contracts.sh",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/smoke-test/SKILL.md",
-          "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/validate-contracts/SKILL.md",
           "line": 2,
           "confidence": "high",
           "method": "explicit_tag"
@@ -20676,7 +18926,7 @@
           "method": "task_reference"
         }
       ],
-      "link_count": 32
+      "link_count": 30
     },
     {
       "id": "e80s03",
@@ -20690,12 +18940,6 @@
         {
           "file": "specs/epics/e80-verify-arc-hardening/epic.yaml",
           "line": 69,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/develop-tdd/SKILL.md",
-          "line": 3,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -20748,7 +18992,7 @@
           "method": "task_reference"
         }
       ],
-      "link_count": 10
+      "link_count": 9
     },
     {
       "id": "e80s04",
@@ -20768,12 +19012,6 @@
         {
           "file": "scripts/verify-generalize-sweep.sh",
           "line": 2,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/validate-fix/SKILL.md",
-          "line": 3,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -20952,7 +19190,7 @@
           "method": "task_reference"
         }
       ],
-      "link_count": 32
+      "link_count": 31
     },
     {
       "id": "e80s05",
@@ -21144,62 +19382,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".qwen/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".qwen/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".qwen/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".copilot/skills/release-branch/SKILL.md",
           "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".copilot/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/survey-context.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/commit-message.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/commands/prompts/kickoff-branch.md",
-          "line": 8,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -21216,62 +19400,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".gemini/extensions/bigpowers/skills/kickoff-branch/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/survey-context/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".gemini/extensions/bigpowers/skills/commit-message/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".trae/skills/release-branch/SKILL.md",
           "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".trae/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/survey-context.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/commit-message.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".windsurf/rules/kickoff-branch.md",
-          "line": 9,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -21294,62 +19424,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".opencode/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".opencode/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".agents/skills/release-branch/SKILL.md",
           "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".agents/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/survey-context.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/commit-message.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".kilocode/rules/kickoff-branch.md",
-          "line": 9,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -21366,68 +19442,14 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".codex/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codex/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".cline/skills/release-branch/SKILL.md",
           "line": 11,
           "confidence": "high",
           "method": "explicit_tag"
         },
         {
-          "file": ".cline/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".cline/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": "skills/release-branch/SKILL.md",
-          "line": 13,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/kickoff-branch/SKILL.md",
-          "line": 10,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/survey-context/SKILL.md",
-          "line": 8,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": "skills/commit-message/SKILL.md",
-          "line": 8,
+          "line": 12,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -21438,44 +19460,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".codebuddy/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".codebuddy/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".zcode/skills/release-branch/SKILL.md",
           "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".zcode/skills/commit-message/SKILL.md",
-          "line": 7,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -21486,62 +19472,8 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".mimocode/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".mimocode/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
           "file": ".hermes/skills/release-branch/SKILL.md",
           "line": 11,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".hermes/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/survey-context.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/commit-message.md",
-          "line": 6,
-          "confidence": "high",
-          "method": "explicit_tag"
-        },
-        {
-          "file": ".pi/prompts/kickoff-branch.md",
-          "line": 8,
           "confidence": "high",
           "method": "explicit_tag"
         },
@@ -21558,22 +19490,22 @@
           "method": "explicit_tag"
         },
         {
-          "file": ".pi/skills/kickoff-branch/SKILL.md",
-          "line": 9,
-          "confidence": "high",
-          "method": "explicit_tag"
+          "file": ".windsurf/rules/survey-context.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         },
         {
-          "file": ".pi/skills/survey-context/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
+          "file": ".windsurf/rules/commit-message.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         },
         {
-          "file": ".pi/skills/commit-message/SKILL.md",
-          "line": 7,
-          "confidence": "high",
-          "method": "explicit_tag"
+          "file": ".windsurf/rules/kickoff-branch.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
         },
         {
           "file": "specs/COMMIT_MESSAGE_e42.md",
@@ -21744,6 +19676,24 @@
           "method": "file_heuristic"
         },
         {
+          "file": ".kilocode/rules/survey-context.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": ".kilocode/rules/commit-message.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
+          "file": ".kilocode/rules/kickoff-branch.md",
+          "line": 0,
+          "confidence": "medium",
+          "method": "file_heuristic"
+        },
+        {
           "file": "scripts/land-branch.sh",
           "line": 0,
           "confidence": "medium",
@@ -21756,7 +19706,7 @@
           "method": "file_heuristic"
         }
       ],
-      "link_count": 103
+      "link_count": 55
     },
     {
       "id": "e82s03",
@@ -21833,9 +19783,14 @@
   ],
   "summary": {
     "total_stories": 130,
-    "tagged_stories": 120,
-    "dark_stories": [],
-    "dark_count": 0,
+    "tagged_stories": 106,
+    "dark_stories": [
+      "e45s06",
+      "e45s27",
+      "e45s29",
+      "e45s30"
+    ],
+    "dark_count": 4,
     "orphan_tags": [
       "e00s00",
       "e00s01",
@@ -21863,11 +19818,7 @@
       "e07s02",
       "e07s03",
       "e08s01",
-      "e09s01",
-      "e09s04",
-      "e09s05",
       "e10s01",
-      "e10s02",
       "e12s01",
       "e12s02",
       "e12s03",
@@ -21875,40 +19826,15 @@
       "e12s06",
       "e13s02",
       "e13s03",
-      "e14s01",
-      "e18s01",
-      "e18s05",
-      "e20s01",
       "e20s02",
-      "e20s03",
       "e20s04",
-      "e20s05",
       "e20s06",
-      "e21s01",
-      "e21s02",
       "e21s03",
-      "e21s04",
       "e22s01",
       "e22s02",
       "e23s01",
       "e23s02",
-      "e23s03",
       "e24s01",
-      "e24s02",
-      "e24s03",
-      "e25s01",
-      "e25s02",
-      "e25s03",
-      "e25s04",
-      "e25s05",
-      "e25s06",
-      "e26s01",
-      "e26s02",
-      "e26s03",
-      "e26s04",
-      "e26s05",
-      "e26s06",
-      "e26s07",
       "e27s01",
       "e28s01",
       "e28s02",
@@ -21927,6 +19853,7 @@
       "e32s03",
       "e32s04",
       "e32s05",
+      "e32s06",
       "e33s01",
       "e33s02",
       "e33s03",
@@ -21976,12 +19903,11 @@
       "e44s05",
       "e44s06",
       "e46s01",
-      "e47s02",
       "e47s04",
       "e99s01",
       "e99s99"
     ],
-    "orphan_count": 143,
+    "orphan_count": 114,
     "stale_tags": [
       "e37s01",
       "e37s02",
@@ -22002,9 +19928,6 @@
       "e45s03",
       "e45s04",
       "e45s05",
-      "e45s06",
-      "e45s07",
-      "e45s08",
       "e45s09",
       "e45s10",
       "e45s11",
@@ -22013,30 +19936,19 @@
       "e45s14",
       "e45s15",
       "e45s16",
-      "e45s17",
       "e45s18",
-      "e45s19",
       "e45s20",
       "e45s21",
       "e45s22",
       "e45s23",
       "e45s25",
       "e45s26",
-      "e45s27",
-      "e45s28",
-      "e45s29",
-      "e45s30",
       "e45s31",
       "e45s32",
       "e45s33",
-      "e45s34",
-      "e45s35",
       "e45s36",
-      "e45s37",
-      "e45s38",
       "e45s39",
       "e45s40",
-      "e45s41",
       "e48s01",
       "e48s03",
       "e48s07",
@@ -22100,10 +20012,10 @@
       "e80s05",
       "e81s01"
     ],
-    "stale_count": 116,
+    "stale_count": 102,
     "oracle_stats": {
-      "high": 999,
-      "medium": 2300,
+      "high": 638,
+      "medium": 2320,
       "low": 79
     }
   }

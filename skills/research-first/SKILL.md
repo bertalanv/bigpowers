@@ -5,8 +5,6 @@ model: sonnet
 effort: standard
 ---
 
-# story: e03s01
-# story: e21s02
 
 # Research First
 

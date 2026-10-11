@@ -3,8 +3,6 @@ name: survey-context
 description: "Per-task context bootstrap — reads existing specs/ and tech-architecture docs to map the current lifecycle phase and suggest the next skill. Use at the start of any task, when returning after a break, or when unsure what to do next. For deriving a tech-stack doc from scratch, use map-codebase first."
 ---
 
-# story: e82s02
-
 # Survey Context
 
 Read the project's current state and give a phase map + next-skill recommendation. This is the "where am I?" skill — run it at the start of every task.

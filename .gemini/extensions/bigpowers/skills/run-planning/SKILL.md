@@ -5,8 +5,6 @@ description: "DISCOVER-PHASE ADVANCER — Drive the discover-phase checklist (sp
 disable-model-invocation: true
 ---
 
-# story: e24s03
-
 # Run Planning
 
 > **HARD GATE** — Before running planning skills, confirm the epic capsule exists and the active story is clear. Planning without a target is noise.

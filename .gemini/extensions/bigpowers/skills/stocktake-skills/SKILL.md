@@ -5,7 +5,6 @@ description: "Sequential subagent batch audit of the bigpowers skill catalog —
 disable-model-invocation: true
 ---
 
-# story: e09s01
 <!-- story: e45s12 -->
 <!-- story: e79s04 -->
 

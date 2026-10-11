@@ -1,6 +1,4 @@
 ---
-# story: e45s31
-# story: e45s14
 name: deepen-architecture
 model: sonnet
 effort: standard

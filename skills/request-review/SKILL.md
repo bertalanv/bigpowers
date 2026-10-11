@@ -1,14 +1,10 @@
 ---
-# story: e45s07
-# story: e45s07
-# story: e45s17
 name: request-review
 model: opus
 effort: standard
 description: Dispatch a fresh reviewer agent with a clean context to critique the code after audit-code passes. The reviewer has no shared state with the coding agent and gives a genuine second opinion. Use after audit-code passes, before committing, or when user wants an independent code review.
 ---
 
-# story: e45s28
 
 # Request Review
 

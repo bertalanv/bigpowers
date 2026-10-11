@@ -5,8 +5,6 @@ description: "PLANNING SPINE STEP 3 of 3 — Plan the work: write detailed imple
 disable-model-invocation: true
 ---
 
-# story: e45s29
-
 # Plan Work
 
 > **Spine position:** Step 3 — scope-work → slice-tasks → plan-work.
