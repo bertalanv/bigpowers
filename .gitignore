@@ -46,4 +46,5 @@ bigpowers-showcase/
 allure-results/
 
 # Fork-only personal area (local tracking docs, personal tooling)
-personal/
+personal/*
+!personal/README.md
